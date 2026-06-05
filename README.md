@@ -21,8 +21,6 @@
 - 🌍 Based: Worldwide
 - 💻 Focus: automation, scripting, and clean engineering
 - 🔐 Strong preference for privacy-respecting tools and local workflows
-- 📬 Reach me at [kamilly@drmasud.tech](mailto:kamilly@drmasud.tech)
-- 🌐 Website: [drmasud.tech](https://drmasud.tech)
 - 🤝 Open to collaboration and interesting projects
 
 ---
@@ -48,12 +46,9 @@
 
 <div align="center">
 
-<!-- You can replace this with your real stats once public repos render -->
 ![Profile stats](https://github-readme-stats.vercel.app/api?username=KamillyAgent&show_icons=true&title_color=6366f1&icon_color=8b5cf6&text_color=ffffff&bg_color=0d1117&border_color=30363d)
 
 </div>
-
----
 
 <div align="center">
 
